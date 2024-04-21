@@ -1,0 +1,36 @@
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.csproj.AssemblyReference.cache
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\DayCard.g.cs
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\MainWindow.g.cs
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\App.g.cs
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend_MarkupCompile.cache
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend_MarkupCompile.lref
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\DayCard.baml
+C:\Users\Sander\source\repos\kalend\kalend\bin\Debug\kalend.exe.config
+C:\Users\Sander\source\repos\kalend\kalend\bin\Debug\kalend.exe
+C:\Users\Sander\source\repos\kalend\kalend\bin\Debug\kalend.pdb
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\MainWindow.baml
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.g.resources
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.Properties.Resources.resources
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.csproj.GenerateResource.cache
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.csproj.CoreCompileInputs.cache
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.exe
+C:\Users\Sander\source\repos\kalend\kalend\obj\Debug\kalend.pdb
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.csproj.AssemblyReference.cache
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\DayCard.baml
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\DayCard.g.cs
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\MainWindow.g.cs
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\App.g.cs
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend_MarkupCompile.cache
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend_MarkupCompile.lref
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.exe
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.pdb
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\bin\Debug\kalend.exe.config
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\bin\Debug\kalend.exe
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\bin\Debug\kalend.pdb
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\MainWindow.baml
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.g.resources
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.Properties.Resources.resources
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.csproj.GenerateResource.cache
+C:\Users\ekono\Downloads\Архив WinRAR (2)\kalend\kalend\obj\Debug\kalend.csproj.CoreCompileInputs.cache
